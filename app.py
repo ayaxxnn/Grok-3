@@ -8,7 +8,7 @@ from telebot import TeleBot, types
 
 app = Flask(__name__)
 
-BOT_TOKEN = '7823644703:AAHxf9L9eB7x3lvRV5a_xe_56GWgyP3ZIj8'  # Replace with your Telegram Bot Token
+BOT_TOKEN = '8315233855:AAER9gB9U7f5NolfOEoIdD-S5YS2v0Y5-38'  # Replace with your Telegram Bot Token
 ADMIN_ID = 6324825537  # Replace with your Telegram Admin User ID
 
 bot = TeleBot(BOT_TOKEN)
